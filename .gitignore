@@ -1,6 +1,5 @@
 *~
 *.o
-*.html
 .\#*
 \#*\#
 /examples_01/01_rot13_server_bufferevent
